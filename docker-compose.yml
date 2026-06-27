@@ -1,0 +1,17 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker/app/Dockerfile.dev
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source for hot-reload
+      - .:/app
+      # Prevent container node_modules from being overwritten by host mount
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - DATABASE_PATH=database/academic.db
+      - PORT=3000
+    restart: unless-stopped

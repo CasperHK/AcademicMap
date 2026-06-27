@@ -1,0 +1,14 @@
+[
+  { "id": "math",       "label": "Mathematics",       "type": "field",    "description": "Pure and applied mathematics" },
+  { "id": "cs",         "label": "Computer Science",  "type": "field",    "description": "Theory of computation, algorithms, and systems" },
+  { "id": "physics",    "label": "Physics",           "type": "field",    "description": "Study of matter, energy, and fundamental forces" },
+  { "id": "stat",       "label": "Statistics",        "type": "field",    "description": "Data analysis and probability theory" },
+
+  { "id": "ml",         "label": "Machine Learning",  "type": "major",    "description": "Learning algorithms and statistical models" },
+  { "id": "se",         "label": "Software Engineering", "type": "major", "description": "Design and maintenance of software systems" },
+  { "id": "ds",         "label": "Data Science",      "type": "major",    "description": "Extracting insights from structured and unstructured data" },
+
+  { "id": "nlp",        "label": "NLP",               "type": "research", "description": "Natural language processing and computational linguistics" },
+  { "id": "cv",         "label": "Computer Vision",   "type": "research", "description": "Image and video understanding" },
+  { "id": "quant",      "label": "Quantum Computing", "type": "research", "description": "Quantum algorithms and hardware" }
+]

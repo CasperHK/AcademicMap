@@ -141,3 +141,9 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# SolidStart build output
+.output/
+
+# SQLite database (generated at runtime via seed script)
+database/academic.db
