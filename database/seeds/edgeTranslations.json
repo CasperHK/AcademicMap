@@ -1,0 +1,502 @@
+[
+    {
+        "edge_id":  "e1",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e2",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e3",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e4",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e5",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e6",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e7",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e8",
+        "locale":  "zh-HK",
+        "label":  "應用"
+    },
+    {
+        "edge_id":  "e9",
+        "locale":  "zh-HK",
+        "label":  "應用"
+    },
+    {
+        "edge_id":  "e10",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e11",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e12",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e13",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e14",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e15",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e16",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e17",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e18",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e19",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e20",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e21",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e22",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e23",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e24",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e25",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e26",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e27",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e28",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e29",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e30",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e31",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e32",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e33",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e34",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e35",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e36",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e37",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e38",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e39",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e40",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e41",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e42",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e43",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e44",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e45",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e46",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e47",
+        "locale":  "zh-HK",
+        "label":  "應用"
+    },
+    {
+        "edge_id":  "e48",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e49",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e50",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e51",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e52",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e53",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e54",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e55",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e56",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e57",
+        "locale":  "zh-HK",
+        "label":  "交叉"
+    },
+    {
+        "edge_id":  "e58",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e59",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e60",
+        "locale":  "zh-HK",
+        "label":  "方法論"
+    },
+    {
+        "edge_id":  "e61",
+        "locale":  "zh-HK",
+        "label":  "方法論"
+    },
+    {
+        "edge_id":  "e62",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e63",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e64",
+        "locale":  "zh-HK",
+        "label":  "交叉"
+    },
+    {
+        "edge_id":  "e65",
+        "locale":  "zh-HK",
+        "label":  "交叉"
+    },
+    {
+        "edge_id":  "e66",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e67",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e68",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e69",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e70",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e71",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e72",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e73",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e74",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e75",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e76",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e77",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e78",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e79",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e80",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e81",
+        "locale":  "zh-HK",
+        "label":  "應用"
+    },
+    {
+        "edge_id":  "e82",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e83",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e84",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e85",
+        "locale":  "zh-HK",
+        "label":  "方法論"
+    },
+    {
+        "edge_id":  "e86",
+        "locale":  "zh-HK",
+        "label":  "方法論"
+    },
+    {
+        "edge_id":  "e87",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e88",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e89",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e90",
+        "locale":  "zh-HK",
+        "label":  "交叉"
+    },
+    {
+        "edge_id":  "e91",
+        "locale":  "zh-HK",
+        "label":  "上游"
+    },
+    {
+        "edge_id":  "e92",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e93",
+        "locale":  "zh-HK",
+        "label":  "應用"
+    },
+    {
+        "edge_id":  "e94",
+        "locale":  "zh-HK",
+        "label":  "專門方向"
+    },
+    {
+        "edge_id":  "e95",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e96",
+        "locale":  "zh-HK",
+        "label":  "基礎"
+    },
+    {
+        "edge_id":  "e97",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e98",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e99",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    },
+    {
+        "edge_id":  "e100",
+        "locale":  "zh-HK",
+        "label":  "相關"
+    }
+]

@@ -1,18 +1,39 @@
-import type { DbEdge } from "~/types/graph";
+import type { DbEdge, Locale } from "~/types/graph";
 import { getDb } from "../client";
 
-export function getAllEdges(): DbEdge[] {
+export function getAllEdges(locale: Locale): DbEdge[] {
   const db = getDb();
   return db
-    .query<DbEdge, []>("SELECT id, source, target, label FROM edges")
-    .all();
+    .prepare(
+      `SELECT
+        e.id,
+        e.source,
+        e.target,
+        COALESCE(et.label, e.label) AS label
+      FROM edges e
+      LEFT JOIN edge_translations et
+        ON et.edge_id = e.id
+       AND et.locale = ?
+      ORDER BY e.id`
+    )
+    .all(locale) as DbEdge[];
 }
 
-export function getEdgesByNodeId(nodeId: string): DbEdge[] {
+export function getEdgesByNodeId(nodeId: string, locale: Locale): DbEdge[] {
   const db = getDb();
   return db
-    .query<DbEdge, { $nodeId: string }>(
-      "SELECT id, source, target, label FROM edges WHERE source = $nodeId OR target = $nodeId"
+    .prepare(
+      `SELECT
+        e.id,
+        e.source,
+        e.target,
+        COALESCE(et.label, e.label) AS label
+      FROM edges e
+      LEFT JOIN edge_translations et
+        ON et.edge_id = e.id
+       AND et.locale = ?
+      WHERE e.source = ? OR e.target = ?
+      ORDER BY e.id`
     )
-    .all({ $nodeId: nodeId });
+    .all(locale, nodeId, nodeId) as DbEdge[];
 }
