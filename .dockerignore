@@ -1,0 +1,10 @@
+node_modules
+.output
+dist
+.cache
+.vite
+*.log
+database/academic.db
+.env
+.env.*
+!.env.example

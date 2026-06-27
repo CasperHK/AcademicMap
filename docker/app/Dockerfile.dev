@@ -1,0 +1,18 @@
+# Development image for Academic Map
+# Used by docker-compose for hot-reload development.
+
+FROM oven/bun:1
+WORKDIR /app
+
+ENV NODE_ENV=development
+ENV PORT=3000
+
+# Install dependencies (layer-cached)
+COPY package.json bun.lock* ./
+RUN bun install
+
+# Source is mounted as a volume at runtime, so we don't COPY it here.
+
+EXPOSE 3000
+
+CMD ["bun", "run", "dev"]

@@ -1,0 +1,14 @@
+[
+  { "id": "e1",  "source": "math",    "target": "cs",    "label": "foundation" },
+  { "id": "e2",  "source": "math",    "target": "stat",  "label": "related" },
+  { "id": "e3",  "source": "math",    "target": "physics","label": "related" },
+  { "id": "e4",  "source": "cs",      "target": "ml",    "label": "parent" },
+  { "id": "e5",  "source": "cs",      "target": "se",    "label": "parent" },
+  { "id": "e6",  "source": "stat",    "target": "ml",    "label": "foundation" },
+  { "id": "e7",  "source": "stat",    "target": "ds",    "label": "foundation" },
+  { "id": "e8",  "source": "ml",      "target": "nlp",   "label": "applied" },
+  { "id": "e9",  "source": "ml",      "target": "cv",    "label": "applied" },
+  { "id": "e10", "source": "cs",      "target": "ds",    "label": "parent" },
+  { "id": "e11", "source": "physics", "target": "quant", "label": "parent" },
+  { "id": "e12", "source": "cs",      "target": "quant", "label": "related" }
+]
