@@ -36,7 +36,7 @@ bun install
 啟動本地開發伺服器：
 
 ```bash
-npm run dev
+bun run dev
 ```
 打開瀏覽器訪問 `http://localhost:3000` 即可看到關係圖。
 
@@ -44,10 +44,10 @@ npm run dev
 
 ```bash
 # 打包專案
-npm run build
+bun run build
 
 # 本地預覽生產環境版本
-npm run start
+bun start
 ```
 
 ## 📂 專案架構
