@@ -10,6 +10,7 @@
     "seed": "bun run scripts/seed.ts"
   },
   "dependencies": {
+    "@solidjs/meta": "^0.29.4",
     "@solidjs/router": "^0.15.3",
     "@solidjs/start": "^1.1.0",
     "cytoscape": "^3.30.2",
