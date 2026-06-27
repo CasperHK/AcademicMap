@@ -15,7 +15,7 @@
 
 - **前端框架**：[SolidJS](https://solidjs.com)
 - **全端/路由框架**：[SolidStart](https://solidjs.com)
-- **視覺化引擎**：[Cytoscape.js](https://cytoscape.org)
+- **視覺化引擎**：[Ogma](https://doc.linkurious.com/ogma/latest/)
 - **樣式設計**：[Tailwind CSS](https://tailwindcss.com)
 
 ## 🚀 快速開始
